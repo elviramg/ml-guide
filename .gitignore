@@ -1,6 +1,8 @@
+venv/
+photos/
 .env
 .python-version
-venv/
+
 
 # OS generated files #
 ######################
