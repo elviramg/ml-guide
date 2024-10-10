@@ -6,22 +6,14 @@ By diving into the mathematical concepts and learning how to apply them in code,
 
 ## Index
 
-1. [Gradient Descent](#gradient-descent)
-2. [Linear Algebra Basics](#linear-algebra-basics)
+1. [Linear Algebra Basics](#linear-algebra-basics)
    - Matrix and its properties
    - Eigenvalues and Eigen decomposition
    - Matrix operations
-3. [Probability](#probability)
+2. [Probability](#probability)
+3. [Gradient Descent](#gradient-descent)
 
 ---
-
-### Gradient Descent
-
-In this section, we will explore the optimization algorithm used for minimizing the cost function in machine learning models. Gradient Descent is a key component of many machine learning algorithms, especially in neural networks. We will cover:
-- What Gradient Descent is
-- Types of Gradient Descent (Batch, Stochastic, Mini-batch)
-- Mathematical derivation and examples in Python
-
 ### Linear Algebra Basics
 
 Understanding linear algebra is critical for working with ML models, as it forms the backbone of many algorithms. Here, we will cover:
@@ -38,6 +30,13 @@ Probability is essential for understanding uncertainty in machine learning. This
 - Bayes' Theorem
 - Random variables and probability distributions
 - Application of probability in machine learning algorithms
+
+### Gradient Descent
+
+In this section, we will explore the optimization algorithm used for minimizing the cost function in machine learning models. Gradient Descent is a key component of many machine learning algorithms, especially in neural networks. We will cover:
+- What Gradient Descent is
+- Types of Gradient Descent (Batch, Stochastic, Mini-batch)
+- Mathematical derivation and examples in Python
 
 ---
 
